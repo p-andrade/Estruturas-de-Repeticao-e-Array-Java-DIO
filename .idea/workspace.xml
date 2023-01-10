@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5db64a39-73c3-4218-8371-c42cf85ecfbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array-dio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayMultidimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Consoantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/NumeroAleatorios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/OrdemInversa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Fatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/MaioEMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Nomeeidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/ParEImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="5db64a39-73c3-4218-8371-c42cf85ecfbb" name="Changes" comment="Exercícios de Array e Repetição da Dio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +45,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672945991531</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercícios de Array e Repetição da Dio">
+      <created>1673386609220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673386609220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +65,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercícios de Array e Repetição da Dio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercícios de Array e Repetição da Dio" />
   </component>
 </project>
